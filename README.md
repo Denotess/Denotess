@@ -33,13 +33,3 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)  
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Denotess&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)  
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Denotess&theme=tokyonight&hide_border=true)  
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Denotess&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&hide=css,scss,html)  
-
----
-✨ Generated with a little help from [GPRM](https://gprm.itsvg.in) ✨
