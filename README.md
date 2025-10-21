@@ -3,11 +3,9 @@
 
 - 💻 I'm currently building projects in **Python for Backend Development and Machine Learning**.  
 - 🤝 I'm looking to collaborate on open-source projects involving **APIs, databases, and ML models**.  
-- 🛠️ I'm focusing on **backend systems, cloud infrastructure, and scalable data pipelines**.  
-- 📚 I'm actively learning **machine learning algorithms, model deployment, and backend best practices**.  
-- 💬 Ask me about Python, backend architecture, or machine learning applications.  
-- 🎲 Fun fact: I can debug code faster with coffee in hand ☕.  
-
+- 🛠️ I'm focusing on **backend systems, cloud infrastructure**.  
+- 📚 I'm actively learning **model deployment, and backend best practices**.  
+- 💬 Ask me about Python.  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tian-isteni%C4%8D-764a97238/)  
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Denotess)  
@@ -39,5 +37,4 @@
 
 
 # 📖 Currently Learning:
-- **Backend:** Advanced API design, microservices, cloud deployment  
-- **Machine Learning:** Deep learning, model optimization, ML pipelines  
+- **Backend:** Advanced API design, microservices, cloud deployment, Go  
