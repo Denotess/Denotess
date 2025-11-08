@@ -1,11 +1,10 @@
 # 💫 About Me:
 ### Hi there 👋  
 
-- 💻 I'm currently building projects in **Python for Backend Development and Machine Learning**.  
-- 🤝 I'm looking to collaborate on open-source projects involving **APIs, databases, and ML models**.  
+- 💻 I'm currently building projects in **Python and C# for Backend Development**.  
+- 🤝 I'm looking to collaborate on open-source projects involving **APIs, databases**.  
 - 🛠️ I'm focusing on **backend systems, cloud infrastructure**.  
-- 📚 I'm actively learning **model deployment, and backend best practices**.  
-- 💬 Ask me about Python.  
+- 📚 I'm actively learning **backend best practices**.  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tian-isteni%C4%8D-764a97238/)  
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Denotess)  
@@ -21,13 +20,6 @@
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 
-
-### Machine Learning / Data:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
-
 ### Tools & DevOps:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
@@ -37,4 +29,4 @@
 
 
 # 📖 Currently Learning:
-- **Backend:** Advanced API design, microservices, cloud deployment, Go  
+- **Backend:** Advanced API design, microservices, cloud deployment
