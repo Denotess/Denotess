@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Hi there 👋  
 
-- 💻 I'm currently building projects in **Python and C# for Backend Development**.  
+- 💻 I'm currently building projects in **Python and Go for Backend Development**.  
 - 🤝 I'm looking to collaborate on open-source projects involving **APIs, databases**.  
 - 🛠️ I'm focusing on **backend systems, cloud infrastructure**.  
 - 📚 I'm actively learning **backend best practices**.  
@@ -12,9 +12,10 @@
 
 # 💻 Tech Stack:
 ### Backend:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white)  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
